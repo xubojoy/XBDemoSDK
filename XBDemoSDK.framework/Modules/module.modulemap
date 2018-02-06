@@ -1,0 +1,6 @@
+framework module XBDemoSDK {
+  umbrella header "XBDemoSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
